@@ -1,0 +1,3 @@
+2024-01-06:: Logger has a singleton instance 
+2024-01-06:: Write log by $instance 1 
+2024-01-06:: Write log by $instance 2 
